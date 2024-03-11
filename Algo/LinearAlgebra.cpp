@@ -1,0 +1,1 @@
+// g++ -std=c++17 ./LinearAlgebra.cpp -o main && ./main && rm -rf ./main
